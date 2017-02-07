@@ -55,6 +55,7 @@ public class SendEmail {
         
         codi = 3;
         //String query = "insert into Employee values(1,?)";
+// git
 
      
         estado.setCodigoEstado(codi);
